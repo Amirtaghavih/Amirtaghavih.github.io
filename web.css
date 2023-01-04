@@ -1,0 +1,19 @@
+html{
+    height: 100%;
+    background:linear-gradient(#0046ae, #9198e5);
+}
+div{
+    box-shadow: 4px 4px 8px rgb(36, 35, 35), -4px -4px 8px rgb(44, 43, 43);
+    height: 400px;
+    width: 270px;
+    border-radius: 18px;
+    margin: 0px auto;
+    margin-top: 130px;
+    background:linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674))
+    
+    
+}
+
+div:hover{
+    background : linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
+}
