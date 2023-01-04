@@ -49,3 +49,44 @@ img:hover{
     margin:0;
     
 }
+.hibye{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin:0;
+}
+
+input{
+    width:225px;
+    margin-left: 21px;
+    
+}
+
+.play,
+.back,
+.for{
+    display:inline-block;
+    border-color: #ffffff;
+    width:45px;
+    height:45px;
+    border-radius: 50%;
+}
+
+
+.Buttoms{
+    text-align: center;
+    display:inline-block;
+}
+
+
+li{
+    margin-right: 20px;
+    display : inline-block;
+}
+.hi{
+    padding-left: 13.1px;
+}
+.bye{
+    padding-left: 109px;
+}
