@@ -33,3 +33,19 @@ img:hover{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-shadow: 2px 2px 9px black;
 }
+.Musicname{
+    color: white;
+    text-shadow: 2px 2px 9px black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.name{
+    color: gray;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 4px;
+    margin:0;
+    
+}
