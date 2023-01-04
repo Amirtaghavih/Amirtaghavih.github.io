@@ -17,3 +17,19 @@ div{
 div:hover{
     background : linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
 }
+img{
+    border-radius: 5px;
+    height: 200px;
+    width: 200x;
+    margin-left: 34px;
+}
+img:hover{
+    box-shadow: 2px 2px 2px rgba(29, 29, 29, 0.781);
+}
+.topic{
+    color: white;
+    padding-top: 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 9px black;
+}
